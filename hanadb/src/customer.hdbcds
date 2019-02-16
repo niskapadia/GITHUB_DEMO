@@ -1,0 +1,10 @@
+namespace GITHUB_PRO.hanadb;
+
+context customer {
+
+    /*@@layout{"layoutInfo":{"x":-374,"y":8.5}}*/
+    entity Customer {
+        cust_id   : Integer;
+        cust_name : String(100);
+    };
+};
