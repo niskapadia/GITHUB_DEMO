@@ -1,0 +1,10 @@
+{
+  "GITHUB_PRO.hanadb::vt": {
+    "target": {
+      "remote": "FILE",
+      "database": "MYHANA",
+      "schema": "MYNANA",
+      "object": "test"
+    }
+  }
+}
